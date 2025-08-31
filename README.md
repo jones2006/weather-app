@@ -1,50 +1,19 @@
-# Welcome to your Expo app 👋
+<h1 align="center">Hi 👋, I'm jones</h1>
+<h3 align="center">UI/UX Designer & React Native Developer passionate about creating user-friendly mobile experiences.</h3>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+<h3 align="center"> 🌤️Weather App📱 (Flames App❤️)</h3>
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/53a3608e-04b7-4d76-afc5-f37a372a617f" alt="Splash image" width="260" height="650" /> <img src="https://github.com/user-attachments/assets/717ad8c9-a7f8-473f-ad56-24431471d195" alt="Home page" width="260" height="650" /> <img src="https://github.com/user-attachments/assets/c55e7b40-9b55-49e4-a5f1-3140eebc2ed5" alt="home page 1" width="260" height="650" />
+</div>
 
-2. Start the app
+<h3 align="center">Languages and Tools:</h3>
 
-   ```bash
-   npx expo start
-   ```
+<p align="center"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+  <h3 align="center">Please check my releases and download a zip file extract to install my app</h3>
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
